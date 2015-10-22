@@ -1,0 +1,22 @@
+body {
+	font-family:sans-serif;
+}
+
+.ppic {
+	margin:10px;
+	float:left;
+}
+
+.profile {
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 20px;
+	height:80px;
+	width: 500px;
+}
+
+.sm {
+	width:16px;
+	height:16px;
+}
